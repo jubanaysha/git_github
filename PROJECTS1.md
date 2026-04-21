@@ -1,6 +1,6 @@
 - <a href="https://github.com/jubanaysha/git_github/blob/main/TEST%20CASE%20DOCUMENT.xlsx">GURU99 TESTCASES</a>
 
-Telecom Website Testing (Guru99)
+1.Telecom Website Testing (Guru99)
 Objective:
 To test telecom application features like customer registration, billing, and payment.
 Testing Performed:
@@ -28,7 +28,7 @@ Cart update problems
 
 - <a href="https://github.com/jubanaysha/git_github/blob/main/TEST%20CASE%20DOCUMENT-MOBILE%20APP.xlsx"> GOOGLEPAY TESTCASE </a>
 
-4. Google Pay Mobile Application Testing
+3. Google Pay Mobile Application Testing
 Objective:
 To test mobile payment application functionality.
 Testing Areas:
@@ -43,7 +43,7 @@ Notifications not received
 
 - <a href="https://github.com/jubanaysha/git_github/blob/main/TEST%20CASE%20DOCUMENT-PSC.xlsx"> PSC TESTCASES </a>
 
-6. PSC Website Testing
+4. PSC Website Testing
 Objective:
 To test government job portal functionality.
 Key Areas:
